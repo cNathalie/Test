@@ -1,6 +1,6 @@
 bla
 
-bugfixes
-code code
+de nieuwste feature toevoegen
+code
 code code
 code
